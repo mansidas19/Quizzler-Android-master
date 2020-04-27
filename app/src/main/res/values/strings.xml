@@ -6,8 +6,8 @@
     <string name="initial_score">Score 0/13</string>
 
 
-    <string name="incorrect_toast">Wrong!</string>
-    <string name="correct_toast">You got it!</string>
+    <string name="incorrect_toast">OOPS!! Wrong answer</string>
+    <string name="correct_toast">Yeah!! You got it right</string>
 
     <string name="question_1">Valentine\'s day is banned in Saudi Arabia.</string>
     <string name="question_2">A slug\'s blood is green.</string>
